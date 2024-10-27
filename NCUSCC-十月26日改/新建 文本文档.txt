@@ -1,0 +1,21 @@
+冒泡
+优化选项,执行时间 (s),CPU用户时间 (s),CPU系统时间 (s),最大内存使用 (KB)
+12.95,12.95,0.00,1504
+ -O0,Writing to file...
+Writing complete.
+
+2.72,2.72,0.00,1556
+-O1,Writing to file...
+Writing complete.
+
+3.66,3.66,0.00,1524
+-O2,Writing to file...
+Writing complete.
+
+3.77,3.76,0.00,1560
+-O3,Writing to file...
+Writing complete.
+
+2.92,2.91,0.00,1552
+-Ofast,Writing to file...
+Writing complete.
