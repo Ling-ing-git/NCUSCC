@@ -1,0 +1,19 @@
+12.87,12.87,0.00,1504
+ -O0,Writing to file...
+Writing complete.
+
+2.77,2.77,0.00,1596
+-O1,Writing to file...
+Writing complete.
+
+3.76,3.75,0.00,1592
+-O2,Writing to file...
+Writing complete.
+
+3.94,3.94,0.00,1524
+-O3,Writing to file...
+Writing complete.
+
+2.81,2.81,0.00,1516
+-Ofast,Writing to file...
+Writing complete.
